@@ -3,7 +3,10 @@
 
 #include "stdafx.h"
 
+void KK()
+{
 
+}
 int _tmain(int argc, _TCHAR* argv[])
 {
 	printf("'");
